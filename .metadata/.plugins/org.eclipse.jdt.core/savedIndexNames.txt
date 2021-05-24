@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Mhand\Documents\Formations\Projets\gitYoutub\.metadata\.plugins\org.eclipse.jdt.core
+4253351750.index
